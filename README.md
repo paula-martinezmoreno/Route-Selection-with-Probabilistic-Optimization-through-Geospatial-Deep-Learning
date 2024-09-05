@@ -8,7 +8,7 @@ Tutor: Gabriel Antonio Valverde Castilla
 Este proyecto aborda el Vehicle Routing Problem (VRP), combinando un enfoque mixto de los modelos One-to-Many y Many-to-One, junto con un modelo predictivo de demanda. Utilizando técnicas avanzadas de optimización y deep learning para mejorar la eficiencia operativa y reducir costos en la planificación de rutas.
 
 ## Archivos principales
- 1. [Análisis de Datos de Rutas y Demandas.ipynb](./Análisis de Datos de Rutas y Demandas.ipynb)
+ 1. [Analisis de Datos de Rutas y Demandas.ipynb](./Analisis de Datos de Rutas y Demandas.ipynb)
 Contiene el procesamiento y análisis de los datos espaciales y temporales de rutas y demandas, utilizando datos de la ciudad de Nueva York.
 
  2. Predicciones con T-GCN.ipynb
